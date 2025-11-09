@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project focuses on fine-tuning the SAM2 (Segment Anything Model 2) model on a custom dataset for a specific object segmentation task. The goal is to adapt the model to recognize and segment objects of interest with high accuracy, using point-based prompt.
+This project focuses on fine-tuning the SAM2 (Segment Anything Model 2) model on a custom dataset for a specific object segmentation task. The goal is to adapt the model to recognize and segment objects of interest with high accuracy, using point-based prompts.
 
 ### Setup and installation
 
