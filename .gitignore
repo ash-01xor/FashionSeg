@@ -23,9 +23,11 @@ venv.bak/
 *.csv
 *.pkl
 *.pickle
+*.pt
 
 # Logs
 *.log
+logs/
 
 #model
 models/
