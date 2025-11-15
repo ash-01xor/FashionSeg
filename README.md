@@ -29,7 +29,16 @@ This project uses `uv` for fast and efficient package management.
     ```bash
     git clone https://github.com/facebookresearch/segment-anything-2.git
     cd segment-anything-2
-    pip install .
+    uv pip install -e .
     cd ..
     ```
+
+5 . **Download model checkpoints**
+    We would be using the `sam2_hiera_small.pt` model. 
+    ```bash
+    cd checkpoints
+    ./download_ckpts.sh
+    ``` 
+
+
 
