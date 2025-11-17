@@ -33,7 +33,7 @@ This project uses `uv` for fast and efficient package management.
     cd ..
     ```
 
-5 . **Download model checkpoints**
+5. **Download model checkpoints:**
     We would be using the `sam2_hiera_small.pt` model. 
     ```bash
     cd checkpoints
